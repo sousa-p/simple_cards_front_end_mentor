@@ -11,6 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
 
 dev_dependencies:
   flutter_test:
@@ -19,16 +20,22 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-  uses-material-design: true
+  assets:
+      - assets/images/icon-luxury.svg
+      - assets/images/icon-sedans.svg
+      - assets/images/icon-suvs.svg
+
   fonts:
     - family: LexendDeca
       fonts:
-        - asset: fonts/LexendDeca-Regular.tff
-        - asset: fonts/LexendDeca-Black.ttf
+        - asset: assets/fonts/LexendDeca-Regular.ttf
+        - asset: assets/fonts/LexendDeca-Black.ttf
           weight: 400
     
     - family: BigShouldersDisplay
       fonts:
-        - asset: fonts/BigShouldersDisplay-Regular.tff
-        - asset: fonts/BigShouldersDisplay-Black.ttf
+        - asset: assets/fonts/BigShouldersDisplay-Regular.ttf
+        - asset: assets/fonts/BigShouldersDisplay-Black.ttf
           weight: 700
+  
+  uses-material-design: true
