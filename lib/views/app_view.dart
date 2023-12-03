@@ -22,7 +22,6 @@ class AppView extends StatelessWidget {
                 ClipRRect(
                   borderRadius: BorderRadius.circular(8),
                   child: const Wrap(
-                    alignment: WrapAlignment.center,
                     children: [
                       CardComponent(
                         background: HSLColor.fromAHSL(1, 31, 0.77, .52),
