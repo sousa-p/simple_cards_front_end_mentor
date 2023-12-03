@@ -25,6 +25,10 @@ Users should be able to:
 
 ### ScreenshotMy process
 
+![image](https://github.com/sousa-p/simple_cards_front_end_mentor/assets/97417230/2de8a2f7-2ffa-4bde-9627-0ac37062d8ff)
+
+![image](https://github.com/sousa-p/simple_cards_front_end_mentor/assets/97417230/079a0af9-7464-474a-abc3-da016313d611)
+
 ### Built with
 
 - Flutter
