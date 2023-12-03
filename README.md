@@ -1,16 +1,38 @@
-# simple_cards_front_end_mentor
 
-A new Flutter project.
+# Frontend Mentor - 3-column preview card component solution
 
-## Getting Started
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-This project is a starting point for a Flutter application.
+## Table of contents
 
-A few resources to get you started if this is your first Flutter project:
+- [Overview](#overview)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive element
+
+### Screenshot
+
+
+## My process
+
+### Built with
+
+- Flutter
+- Dart
+
+### What I learned
+
+Responsive layout in flutter.
